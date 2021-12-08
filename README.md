@@ -52,7 +52,7 @@ pip install matplotlib
 
 Clone the Project
 ```cmd
-  git clone
+  git clone https://github.com/iashyam/Lissajous-Figures
 ```
 To to the folder
 ```cmd
