@@ -11,9 +11,6 @@ Genral equation for Lissajous's Figures is given by
 
 ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{2xy}{ab}\cos\delta=\sin^2\delta)
 
-One Perticular example is given here:
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lissajous_curve_3by2.svg/120px-Lissajous_curve_3by2.svg.png)
-
 [Read More](https://en.wikipedia.org/wiki/Lissajous_curve)
 
 ## How to draw them?
@@ -32,7 +29,7 @@ I have gievn sliders to control
 
 ## Demo
 
-Insert gif or link to demo
+![demo](https://github.com/iashyam/Lissajous-Figures/blob/main/gif.gif)
 
 
 ## Installation
