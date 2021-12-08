@@ -74,5 +74,6 @@ Please adhere to this project's `code of conduct`.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/iashyam/Lissajous-Figures/blob/main/LICENSE)
 
+Copyright Shyam Sunder &copy; 2021
