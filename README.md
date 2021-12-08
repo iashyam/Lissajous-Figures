@@ -61,7 +61,7 @@ To to the folder
 Open it with Python
 
 ```cmd
-python Lissajous.py
+python lissajous.py
 ```
     
 ## Contributing
