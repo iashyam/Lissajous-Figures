@@ -9,6 +9,8 @@ When two perpendicular simpoer harmonic motions superimpose, they make some beau
 
 Genral equation for Lissajous's Figures is given by 
 
+$$\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{2xy}{ab}\cos\delta=\sin^2\delta$$
+
 ![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{2xy}{ab}\cos\delta=\sin^2\delta)
 
 [Read More](https://en.wikipedia.org/wiki/Lissajous_curve)
