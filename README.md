@@ -18,9 +18,8 @@ $$\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{2xy}{ab}\cos\delta=\sin^2\delta$$
 ## How to draw them?
 
 In this program I have plotted the first SHM on x axis and the other SHM on y axis. 
-
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=a\sin(t\omega_1))
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;y=b\sin(t\omega_2+\delta))
+$$x=a\sin(t\omega_1)$$
+$$y=b\sin(t\omega_2+\delta)$$
 
 I have gievn sliders to control
 
