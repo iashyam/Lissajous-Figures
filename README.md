@@ -11,7 +11,7 @@ Genral equation for Lissajous's Figures is given by
 
 $$\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{2xy}{ab}\cos\delta=\sin^2\delta$$
 
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{2xy}{ab}\cos\delta=\sin^2\delta)
+!
 
 [Read More](https://en.wikipedia.org/wiki/Lissajous_curve)
 
@@ -19,13 +19,13 @@ $$\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{2xy}{ab}\cos\delta=\sin^2\delta$$
 
 In this program I have plotted the first SHM on x axis and the other SHM on y axis. 
 
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=a\sin(t\omega_1))
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;y=b\sin(t\omega_2+\delta))
+$$x=a\sin(t\omega_1)$$
+$$y=b\sin(t\omega_2+\delta)$$
 
 I have gievn sliders to control
 
 1. the phase differace delta
-2. The ratio of frequencies w1/w2
+2. The ratio of frequencies $\omega_1/\omega_2$$
 3. The Ratio of amplitudes
 
 
