@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib.widgets import Slider
 from numpy.linalg import slogdet
 
-plt.style.use('seaborn-whitegrid')
+plt.style.use('seaborn-v0_8-whitegrid')
 
 # definng the range
 x = np.linspace(-10, 10, 100)
