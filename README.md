@@ -56,7 +56,7 @@ Clone the Project
 ```
 To to the folder
 ```cmd
-  cd Lissajous Figures
+  cd Lissajous-Figures
 ```
 Open it with Python
 
